@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    height: 80px;
+    background-color: aquamarine;
+    border: solid;
+    box-shadow: 0 0 10px
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: rgb(119, 119, 119);  
+}
+input{
+    border-radius: 20px;
+}
+fieldset{
+    border-radius: 30px;
+    border-color: black;
+    color: rgb(255, 255, 255);
+    width: 250px;
+    background-color: rgb(59, 134, 109);
+}
+.seta{
+    text-align: start;
+    font-size: 30px;
+    margin-top: -15px;
+    margin-left: 10px;
+    /* margin-right: 50px; */
+    text-decoration: none;
+}
+.texto{
+    margin-top: 25px;
+}
